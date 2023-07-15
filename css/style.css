@@ -50,12 +50,6 @@
     height: 50vh;
 }
 
-#colorName {
-    background: 3px solid white;
-    -webkit-text-fill-color: transparent;
-    -webkit-background-clip: text;
-}
-
 .companyLogo {
     background-size: cover;
     max-width: 140px;
